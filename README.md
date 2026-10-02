@@ -181,9 +181,9 @@ A real-world development program would require appropriately permissioned/de-ide
 
 ## Citation
 
-Until a Zenodo DOI is minted, cite the V1.0 software release using the citation information in `CITATION.cff` or `CITATION.txt`.
+DOI: https://doi.org/10.5281/zenodo.23093923
 
-After Zenodo publishes the release, update this README and `CITATION.cff` with the version-specific DOI.
+Chakrapani, Sri Harsha. (2026). *Predictive CPV Analytics for Tablet Compression: XGBoost Prediction, SHAP Explainability, and Applicability-Domain Control* (Version 1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23093923
 
 ## License
 
