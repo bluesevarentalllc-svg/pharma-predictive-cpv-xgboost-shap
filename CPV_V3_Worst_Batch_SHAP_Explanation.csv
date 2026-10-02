@@ -1,0 +1,11 @@
+Feature,Feature_Value,SHAP_Contribution_pp,Abs_SHAP
+Bulk_Density_g_mL,0.568,0.61799574,0.61799574
+API_PSD_D90_um,73.63,0.4252838,0.4252838
+Lubrication_Time_min,4.59,0.2315593,0.2315593
+Blend_Moisture_pct,2.26,0.18752591,0.18752591
+Tablet_Weight_mg,500.62,0.04892851,0.04892851
+Feeder_Speed_rpm,24.93,0.041576184,0.041576184
+Press_Speed_rpm,50.95,-0.02516729,0.02516729
+Tablet_Hardness_kp,6.77,-0.012675732,0.012675732
+Compression_Force_kN,10.1,0.009129711,0.009129711
+Thickness_mm,4.197,0.008674556,0.008674556

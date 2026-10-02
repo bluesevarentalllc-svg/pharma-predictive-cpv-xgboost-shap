@@ -1,0 +1,8 @@
+Suggested citation before DOI assignment
+
+Chakrapani, Sri Harsha. (2026). Predictive CPV Analytics for Tablet Compression:
+XGBoost Prediction, SHAP Explainability, and Applicability-Domain Control
+(Version 1.0.0) [Software].
+
+After Zenodo publishes the GitHub V1.0 release, replace this provisional citation
+with the Zenodo-generated citation containing the version-specific DOI.

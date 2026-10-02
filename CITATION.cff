@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the V1.0 release and its Zenodo DOI once available."
+title: "Predictive CPV Analytics for Tablet Compression: XGBoost Prediction, SHAP Explainability, and Applicability-Domain Control"
+type: software
+authors:
+  - family-names: "Chakrapani"
+    given-names: "Sri Harsha"
+version: "1.0.0"
+date-released: "2026-10-01"
+keywords:
+  - "Continued Process Verification"
+  - "CPV"
+  - "Pharmaceutical Manufacturing"
+  - "Tablet Compression"
+  - "Predictive Analytics"
+  - "XGBoost"
+  - "SHAP"
+  - "Explainable AI"
+  - "Machine Learning"
+  - "Process Validation"
+  - "Applicability Domain"
+  - "Model Governance"
+abstract: >-
+  Synthetic proof-of-concept software for lot-aware predictive CPV analytics
+  in tablet compression using tuned XGBoost, SHAP explainability, and an
+  applicability-domain control. The package is intended for educational,
+  portfolio, and research demonstration and is not validated for GMP use.

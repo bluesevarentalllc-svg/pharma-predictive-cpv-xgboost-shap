@@ -1,0 +1,28 @@
+{
+  "creators": [
+    {
+      "name": "Chakrapani, Sri Harsha"
+    }
+  ],
+  "title": "Predictive CPV Analytics for Tablet Compression: XGBoost Prediction, SHAP Explainability, and Applicability-Domain Control",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "Continued Process Verification",
+    "CPV",
+    "Pharmaceutical Manufacturing",
+    "Tablet Compression",
+    "Predictive Analytics",
+    "XGBoost",
+    "SHAP",
+    "Explainable AI",
+    "Machine Learning",
+    "Process Validation",
+    "Applicability Domain",
+    "Model Governance",
+    "OSD Manufacturing"
+  ],
+  "upload_type": "software",
+  "language": "eng",
+  "description": "Synthetic proof-of-concept for predictive continued process verification (CPV) analytics in tablet compression using lot-aware validation, tuned XGBoost, SHAP explainability, and an applicability-domain control. The package contains 720 synthetic batches across 18 API lots. On the independent unseen-lot synthetic test set, tuned XGBoost achieved MAE 0.602, RMSE 0.740, and R² 0.646. All data are synthetic; the model is not validated for GMP release, batch disposition, autonomous process control, or replacement of laboratory testing."
+}
