@@ -6,7 +6,7 @@
   ],
   "title": "Predictive CPV Analytics for Tablet Compression: XGBoost Prediction, SHAP Explainability, and Applicability-Domain Control",
   "version": "1.0.0",
-  "access_right": "open",
+ "license": "MIT",
   "keywords": [
     "Continued Process Verification",
     "CPV",
