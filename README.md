@@ -127,7 +127,7 @@ On the deliberately out-of-domain stress set, tuned XGBoost performance deterior
 | `CPV_V3_Applicability_Domain_Summary.csv` | OOD flag summary |
 | `CPV_V3_SHAP_Global_Importance.png` | SHAP importance figure |
 | `CPV_V3_Unseen_Lots_Actual_vs_Predicted.png` | Independent test-set performance figure |
-| `docs/Predictive_CPV_XGBoost_SHAP_Project_Report_v1.0.docx` | Detailed professional project report |
+| `Predictive_CPV_XGBoost_SHAP_Project_Report_v1.0.docx` | Detailed professional project report |
 | `CITATION.cff` | GitHub citation metadata |
 | `.zenodo.json` | Zenodo-specific release metadata |
 | `ZENODO_METADATA.md` | Human-readable Zenodo upload text |
