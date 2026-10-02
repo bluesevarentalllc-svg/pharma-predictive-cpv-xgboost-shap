@@ -187,4 +187,4 @@ After Zenodo publishes the release, update this README and `CITATION.cff` with t
 
 ## License
 
-A final public license has **not** been selected in this release kit. See `LICENSE_SELECTION.md` before publishing the repository.
+This project is released under the MIT License. See `LICENSE`.
