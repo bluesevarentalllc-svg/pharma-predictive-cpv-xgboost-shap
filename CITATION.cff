@@ -7,6 +7,7 @@ authors:
     given-names: "Sri Harsha"
 version: "1.0.0"
 date-released: "2026-10-01"
+doi: "10.5281/zenodo.23093923"
 keywords:
   - "Continued Process Verification"
   - "CPV"
